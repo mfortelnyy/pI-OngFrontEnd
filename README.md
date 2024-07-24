@@ -16,3 +16,7 @@ This Flutter application provides an interface for interacting with the Ping Pon
 - Flutter SDK
 - Ping Pong Fast-Moving Object AI Detection Algorithm
 - Video recording device (e.g., smartphone, webcam)
+
+## Demo:
+  ![Uploading ezgif-5-69d2b49ef6.gif…]()
+
